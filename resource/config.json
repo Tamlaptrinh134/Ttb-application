@@ -13,5 +13,6 @@
             "line": [240, 240, 240]
         },
         "select": "light"
-    }
+    },
+    "load" : "./example.json"
 }
